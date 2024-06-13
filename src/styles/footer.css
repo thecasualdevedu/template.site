@@ -1,0 +1,28 @@
+footer {
+    background-color: white;
+    padding: 10px 0 4px 0;
+    text-align: center;
+    width: 100%;
+}
+
+footer a {
+    color: black;
+    display: inline-block;
+    text-decoration: none;
+}
+footer a:hover {
+    background-color: black;
+    color: white;
+}
+footer a:focus {
+    background-color: black;
+    color: white;
+    outline: none;
+}
+
+.name {
+    color: #556ede;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
